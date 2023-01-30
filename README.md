@@ -27,6 +27,7 @@ My education and work experience are focused on Robotics and Computer Science. I
 <img align="left" alt="Tensorflow" title="Tensorflow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
 <br/>
 
+
 ---
 ### Contact Me
 <a href="https://www.linkedin.com/in/shane-copenhagen/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/></a>
